@@ -1,11 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Souleymane GUINDO
-=========================================================================================================================================
+Hi 👋 My name is Souleymane GUINDO
+==================================
 
 Software Engineer | Associate Project Manager
 ---------------------------------------------
 
 * 🌍  I'm based in Bamako
 * ✉️  You can contact me at [souleymane.guindo15@gmail.com](mailto:souleymane.guindo15@gmail.com)
+
+<a href="https://www.github.com/GUIND0" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/GUIND0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -30,3 +33,22 @@ Software Engineer | Associate Project Manager
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/GUIND0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://guindo.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/GUIND0"><img src="https://github-readme-stats.vercel.app/api?username=GUIND0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GUIND0's GitHub stats" /></a>
+
+<a href="http://www.github.com/GUIND0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GUIND0&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/GUIND0"><img src="https://activity-graph.herokuapp.com/graph?username=GUIND0&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
