@@ -4,7 +4,7 @@ Hi 👋 My name is Souleymane GUINDO
 Software Engineer | Associate Project Manager
 ---------------------------------------------
 
-* 🌍  I'm based in Bamako
+* 🌍  I'm based in Bamako, Mali
 * ✉️  You can contact me at [souleymane.guindo15@gmail.com](mailto:souleymane.guindo15@gmail.com)
 
 <a href="https://www.github.com/GUIND0" target="_blank" rel="noreferrer"><img
