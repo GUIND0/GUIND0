@@ -1,7 +1,7 @@
 Hi 👋 My name is Souleymane GUINDO
 ==================================
 
-Software Engineer | Associate Project Manager
+Software Engineer
 ---------------------------------------------
 
 * 🌍  I'm based in Bamako, Mali
