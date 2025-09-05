@@ -12,7 +12,7 @@ I’m passionate about building scalable applications, solving real-world proble
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,dart,javascript,html,css,angular,bootstrap,flutter,nodejs,django,laravel,firebase,postgresql,mysql,mongodb,oracle&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,dart,javascript,bootstrap,flutter,nodejs,django,laravel,postgresql,mysql,kubernetes,redis,react,kafka&perline=8" />
 </p>
 
 ---
