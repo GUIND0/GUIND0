@@ -12,7 +12,7 @@ I’m passionate about building scalable applications, solving real-world proble
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,dart,javascript,bootstrap,flutter,nodejs,django,laravel,postgresql,mysql,kubernetes,redis,react,kafka&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,typescript,tailwind,flutter,django,laravel,postgresql,mysql,kubernetes,redis,react,kafka,rust&perline=8" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ I’m passionate about building scalable applications, solving real-world proble
 ---
 
 ## 🌱 A Bit More About Me
-- 🔭 Currently exploring **cloud computing & system design**  
+- 🔭 Currently exploring **DevOps & system design**  
 - 🛠️ Interested in **scalable backend systems** and **mobile development**  
 - ✍️ I share articles on [Hashnode](https://guindo.hashnode.dev)  
 
